@@ -3,4 +3,4 @@
 - The start point of these graphs are always at 0.
 - Mathematically you have a sequence of normally distributed random variables, whose independent increments have mean zero and variance proportional to the time step.
 - Brownian Motion are the basics of stochastic analysis and finance mathematics for modelling stock prices.
-- Feel free for message me for any questions you all might have. Have fun with the algorithm.
+- Feel free to message me for any questions you all might have. Have fun with the algorithm.
